@@ -11,6 +11,6 @@
 * Telegram: [@v1a0_bot](https://t.me/v1a0_bot)
 * My telegram bots: [__link__](https://github.com/V1A0/Telegram-bots)
 
-#### About 📦
+#### About
 
 * I am currently working on some new telegram bots, but the source code is temporarily private
