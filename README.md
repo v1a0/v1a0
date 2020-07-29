@@ -1,16 +1,17 @@
 ### Hi there 👋
+#### Cloud of tags for HRs
 
-<!--
-**V1A0/v1a0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* Programming Languages: Python, Shell.
+* Databases: SQLite.
+* Misc: Linux, TCP/IP
 
-Here are some ideas to get you started:
+#### Contact info
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Mail: [contact@v1a0.dev](mailto:contact@v1a0.dev) 
+* Telegram: [@v1a0_bot](https://t.me/v1a0_bot)
+* My telegram bots: [__link__](https://github.com/V1A0/Telegram-bots)
+
+#### Other
+
+* https://v1a0.dev
+* 🔭 I am currently working on some new telegram bots, but the source code is temporarily private
