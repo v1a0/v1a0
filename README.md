@@ -13,5 +13,4 @@
 
 #### Other
 
-* https://v1a0.dev
 * 🔭 I am currently working on some new telegram bots, but the source code is temporarily private
