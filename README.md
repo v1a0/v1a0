@@ -14,3 +14,9 @@
 #### About
 
 * I am currently working on some new telegram bots, but the source code is temporarily private
+
+
+#### Donations
+> BTC: bc1qzsx84gyh9ddq30xswfu6ghnqscfh4rharxscpc
+
+> LTC: ltc1qapctyq9yfytcma8qqnyqspdejk39r3vzft8eg3
