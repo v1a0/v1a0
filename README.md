@@ -1,7 +1,7 @@
 ### Hi there 👋
 #### Cloud of tags for HRs 🕵️
 
-* Programming Languages: Python, Shell.
+* Programming Languages: Python, Shell, JS.
 * Databases: SQLite.
 * Misc: Linux, TCP/IP
 
@@ -13,7 +13,7 @@
 
 #### About
 
-* I am currently working on some new telegram bots, but the source code is temporarily private
+* Learning JS at the speed of light ⚡
 
 
 #### Donations
