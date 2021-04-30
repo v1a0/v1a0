@@ -4,9 +4,6 @@
 [![Stats](https://github-readme-stats.vercel.app/api?username=v1a0&show_icons=true&theme=dark)](https://github.com/v1a0)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v1a0&layout=compact&theme=dark)](https://github.com/v1a0)
-
-
 #### Cloud of tags for HRs 🕵️
 
 * Programming Languages: Python, Shell, JS.
