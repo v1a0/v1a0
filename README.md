@@ -1,7 +1,7 @@
 ### Hi there <img src="https://github.com/v1a0/v1a0/blob/master/hi-hand.gif" width="25px">
 
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=v1a0&show_icons=true&theme=dark)](https://github.com/v1a0)
+[![Stats](https://github-readme-stats.vercel.app/api?username=v1a0&show_icons=true&theme=dark)](https://github.com/v1a0?tab=repositories)
 
 
 #### Cloud of tags for HRs 🕵️
