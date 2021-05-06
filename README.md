@@ -16,7 +16,7 @@
 
 #### About
 
-* Learning JS at the speed of light ⚡
+* Learning things at the speed of light ⚡
 
 
 #### Donations
