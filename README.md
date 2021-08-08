@@ -32,4 +32,6 @@
 #### Donations
 > BTC: bc1qzsx84gyh9ddq30xswfu6ghnqscfh4rharxscpc
 
-> LTC: ltc1qapctyq9yfytcma8qqnyqspdejk39r3vzft8eg3
+> LTC: ltc1q4q4gdapmq4xej8zd24475azp7563mqdm85jdx8
+
+> XMR: 4LJdhayF4QdJ4GxStZoefie1evTfJw3C13vV6ouavsCJYh6ZaxdL7FkQ5muz2pGDA5Z53ekMtEcBaPcdn2hjCFXDHtahtDJd7EXQg59ne9
