@@ -38,7 +38,8 @@ jobs:
           plugin_people: yes
           plugin_people_types: stargazers
           plugin_people_sponsors_custom: v1a0
+          plugins_errors_fatal: ${{ github.repository == 'v1a0/sqllex' }}
           plugin_people_limit: 100
           plugin_people_size: 28
-          plugins_errors_fatal: ${{ github.repository == 'v1a0/sqllex' }}
+          plugin_people_shuffle: yes
 
