@@ -26,10 +26,11 @@
 * Email: [contact@v1a0.dev](mailto:contact@v1a0.dev) 
 * Telegram: [@v1a0_bot](https://t.me/v1a0_bot)
 
+---
 
 #### Other
 
-![](https://raw.githubusercontent.com/v1a0/v1a0/master/github-metrics.svg)
+<img src="https://raw.githubusercontent.com/v1a0/v1a0/master/github-metrics.svg" alt="metrics">
 
 
 #### Donations
