@@ -9,8 +9,6 @@
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=v1a0&title_color=c9d1d9&icon_color=c9d1d9&text_color=c9d1d9&bg_color=161b22&border_color=c9d1d9&show_icons=true)](https://github.com/v1a0?tab=repositories)
 
-
-
 #### Cloud of tags for HRs 🕵️
 
 * Programming Languages: Python, JavaScript/Typescript, Shell
@@ -27,6 +25,11 @@
 
 * Email: [contact@v1a0.dev](mailto:contact@v1a0.dev) 
 * Telegram: [@v1a0_bot](https://t.me/v1a0_bot)
+
+
+#### Other
+
+![](https://raw.githubusercontent.com/v1a0/v1a0/master/github-metrics.svg)
 
 
 #### Donations
