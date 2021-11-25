@@ -2,7 +2,7 @@
 name: Metrics
 on:
   # Schedule updates (each hour)
-  schedule: [{cron: "0 0 * * *"}]
+  schedule: [{cron: "0 * * * *"}]
   # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
   push: {branches: ["master", "main"]}
@@ -38,5 +38,7 @@ jobs:
           plugin_people: yes
           plugin_people_types: stargazers
           plugin_people_sponsors_custom: v1a0
+          plugin_people_limit: 100
+          plugin_people_size: 35
           plugins_errors_fatal: ${{ github.repository == 'v1a0/sqllex' }}
 
