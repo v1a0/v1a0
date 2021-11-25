@@ -28,11 +28,11 @@
 
 #### Other
 
-[![](./pics/metrics/activity.svg)](https://github.com/v1a0?tab=repositories)
+[![](https://raw.githubusercontent.com/v1a0/v1a0/master/pics/metrics/activity.svg)](https://github.com/v1a0?tab=repositories)
 
 ---
 
-[![](./pics/metrics/stars.svg)](https://github.com/v1a0/sqllex/stargazers)
+[![](https://raw.githubusercontent.com/v1a0/v1a0/master/pics/metrics/stars.svg)](https://github.com/v1a0/sqllex/stargazers)
 
 #### Donations
 > BTC: bc1qzsx84gyh9ddq30xswfu6ghnqscfh4rharxscpc
