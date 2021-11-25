@@ -10,32 +10,17 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      # Latest activity 
-      - uses: lowlighter/metrics@latest
+          
+      - name: 🧑‍🤝‍🧑 People (Stars)
+        uses: lowlighter/metrics@master
         with:
-          user: v1a0
-          template: classic
-          token: ${{ secrets.METRICS_TOKEN }}
-          filename: metrics-activity.svg
-          base: ""
-          config_timezone: Europe/Moscow
-          plugin_activity: yes
-          plugin_activity_days: 14
-          plugin_activity_filter: all
-          plugin_activity_limit: 5
-          plugin_activity_load: 300
-          plugin_activity_visibility: all
-          plugin_lines: yes
-  
-      # Stars
-      - uses: lowlighter/metrics@latest
-        with:
-          # Options
           filename: metrics-stars.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
-          plugin_stars: yes
-          plugin_stars_limit: 24
+          template: repository
+          repo: sqllex
+          plugin_people: yes
+          plugin_people_types: contributors, stargazers
+          plugin_people_sponsors_custom: v1a0
           plugins_errors_fatal: ${{ github.repository == 'v1a0/sqllex' }}
-          plugin_people_types: stargazers
 
