@@ -28,7 +28,7 @@ jobs:
           plugin_lines: yes
 
       - name: 🧑‍🤝‍🧑 People (Stars)
-        uses: lowlighter/metrics@master
+      - uses: lowlighter/metrics@master
         with:
           filename: pics/metrics/stars.svg
           token: ${{ secrets.METRICS_TOKEN }}
