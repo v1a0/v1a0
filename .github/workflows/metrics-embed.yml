@@ -14,7 +14,9 @@ jobs:
         with:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
-
+          
+          filename: metrics-activity.svg
+          
           # Options
           user: v1a0
           template: classic
@@ -27,8 +29,46 @@ jobs:
           plugin_activity_load: 300
           plugin_activity_visibility: all
           plugin_lines: yes
+  
+          
+      - uses: lowlighter/metrics@latest
+        with:
+          # Your GitHub token
+          token: ${{ secrets.METRICS_TOKEN }}
+          
+          filename: metrics-people.svg
+          
+          # Options
+          user: v1a0
+          template: classic
+          base: ""
+          config_timezone: Europe/Moscow
+          plugin_lines: yes
           plugin_people: yes
           plugin_people_limit: 24
           plugin_people_size: 28
           plugin_people_sponsors_custom: "BTC: bc1qzsx84gyh9ddq30xswfu6ghnqscfh4rharxscpc"
-          plugin_people_types: followers, following
+          plugin_people_types: following, followers
+          
+      - name: 🦑 Personal metrics (left)
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics-langs.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: header
+          plugin_languages: yes
+          plugin_languages_details: lines, percentage
+          plugin_languages_sections: most-used, recently-used
+          plugin_languages_indepth: yes
+          output_action: pull-request
+          
+      - name: Sqllex stars
+        uses: lowlighter/metrics@master
+        with:
+          filename: metrics-stargazers.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_stargazers: yes
+          plugins_errors_fatal: ${{ github.repository == 'v1a0/sqllex' }}
+          output_action: pull-request
+
