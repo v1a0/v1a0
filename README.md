@@ -9,9 +9,9 @@
 
 #### Cloud of tags for HRs 🕵️
 
-* Programming Languages: Python, JavaScript/Typescript, Shell
-* Databases: SQLite.
-* Misc: Linux, TCP/IP, Aiogram (telegram bots) 
+* Programming Languages: Python, JavaScript/TypeScript, Shell
+* Databases: SQLite, PostgreSQL (PL/pgSQL)
+* Misc: Linux/Unix, TCP/IP, HTML/CSS, aiogram, unittests
 
 
 #### About
