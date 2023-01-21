@@ -5,7 +5,6 @@
 <img src="https://raw.githubusercontent.com/v1a0/imgs/main/sqllex/sqllex-repository-open-graph.png" alt="SQLLEX" width="495px" style="border-radius: 10px">
 </a>
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=v1a0&title_color=c9d1d9&icon_color=c9d1d9&text_color=c9d1d9&bg_color=161b22&border_color=c9d1d9&show_icons=true)](https://github.com/v1a0?tab=repositories)
 
 #### Cloud of tags for HRs 🕵️
 
