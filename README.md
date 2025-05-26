@@ -2,26 +2,62 @@
 
 
 <a href="https://github.com/v1a0/sqllex">
+<img src="https://github.com/v1a0/fastapi-utk/blob/a310e89de5098e4a7c8c47d130237e299a4e401c/docs/images/logo.png" alt="FastAPI-UTK" width="495px" style="border-radius: 10px">
+</a>
+</br>
+</br>
+<a href="https://github.com/v1a0/sqllex">
 <img src="https://raw.githubusercontent.com/v1a0/imgs/main/sqllex/sqllex-repository-open-graph.png" alt="SQLLEX" width="495px" style="border-radius: 10px">
 </a>
 
 
-#### Cloud of tags for HRs 🕵️
+## 🛠 Key Skills
 
-* Programming Languages: Python, JavaScript/TypeScript, Shell
-* Databases: SQLite, PostgreSQL (PL/pgSQL)
-* Misc: Linux/Unix, TCP/IP, HTML/CSS, aiogram, unittests
+#### 🧠 Core Backend Skills
+- **Python** (6+ years, Senior level)
+- FastAPI, Django, REST framework
+- Pydantic, AsyncIO, Celery
+- SQLAlchemy, Alembic
+- PostgreSQL (advanced optimization, query tuning)
+- Redis, Elasticsearch
+- REST API design, DDD, SOLID principles, etc
 
+#### 🏗️ Architecture & System Design
+- Microservice architecture design
+- CI/CD pipelines (GitLab CI/CD, Docker)
+- Kubernetes, Docker-compose
+- DevOps collaboration & automation
+- API design and service integration
 
-#### About
+#### 🔐 Databases & Query Engineering
+- PostgreSQL (DEV1/DEV2, DBA2, QPT certified)
+- Query optimization, indexing, migrations
+- Oracle, SQLite
 
-* Learning things at the speed of light ⚡
+#### 🧪 Testing & Code Quality
+- Pytest, Unit Testing
+- Test-driven development (TDD)
+- Code review and quality assurance
+
+#### 🌐 Frontend & Fullstack (Basic)
+- React, Vue3, JavaScript, TypeScript
+- HTML/CSS/SCSS
+
+#### 💼 Team & Project Leadership
+- Leading and mentoring development teams
+- Conducting technical interviews
+- Business & stakeholder communication
+
+#### 🧬 Soft Skills
+- Strong leadership & communication
+- Quality-first mindset
+- Self-driven, initiative-taker
+- Open to innovation and architecture improvement
 
 
 #### Contact info 📫 
 
 * Email: [contact@v1a0.dev](mailto:contact@v1a0.dev) 
-* Telegram: [@v1a0_bot](https://t.me/v1a0_bot)
 
 ---
 
@@ -34,10 +70,7 @@
 [![](https://raw.githubusercontent.com/v1a0/metrtics/main/pics/v1a0/stars.svg)](https://github.com/v1a0/sqllex/stargazers)
 
 #### Donations
-> BTC: bc1qzsx84gyh9ddq30xswfu6ghnqscfh4rharxscpc
 
-> LTC: ltc1q4q4gdapmq4xej8zd24475azp7563mqdm85jdx8
-
-> XMR: 4LJdhayF4QdJ4GxStZoefie1evTfJw3C13vV6ouavsCJYh6ZaxdL7FkQ5muz2pGDA5Z53ekMtEcBaPcdn2hjCFXDHtahtDJd7EXQg59ne9
+> contact me contact@v1a0.dev
 
 
