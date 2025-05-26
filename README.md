@@ -1,7 +1,7 @@
 ### Hi there <img src="./pics/hi-hand.gif" width="25px">
 
 
-<a href="https://github.com/v1a0/sqllex">
+<a href="https://github.com/v1a0/fastapi-utk">
 <img src="https://github.com/v1a0/fastapi-utk/blob/a310e89de5098e4a7c8c47d130237e299a4e401c/docs/images/logo.png" alt="FastAPI-UTK" width="495px" style="border-radius: 10px">
 </a>
 </br>
